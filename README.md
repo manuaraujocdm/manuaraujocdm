@@ -1,4 +1,4 @@
-- 👋 olá sou *Manuela Araujo*
+- 👋 olá sou **Manuela Araujo*
 - 👀 estou interessada em *aprender*
 - 🌱 estou cursando *pensamento computacional*
 - 📫 entre em contato comigo pelo meu *e-mail*
