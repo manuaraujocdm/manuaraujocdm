@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @manuaraujocdm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola ou Manuela Araujo
+- 👀 estou interessada em aprender
+- 🌱 estou cursando pensamento computacional
+- 📫 entre em contato comigo pelo meu e-mail
+- @m.manuela@ecola.pr.gov.br
+  
 
 <!---
 manuaraujocdm/manuaraujocdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
